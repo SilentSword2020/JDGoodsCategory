@@ -1,0 +1,63 @@
+[
+  {
+    /*小分类id*/
+    "cId": "62",
+    "count": "66",
+    "list": [
+      {
+        /*商品id*/
+        "goodsId": "1",
+        /*商品名称*/
+        "goodsName": "商品名称11",
+        /*商品图片*/
+        "goodsImage": "https://goss.veer.com/creative/vcg/veer/800water/veer-153835898.jpg",
+        /*商品规格*/
+        "goodsNumber": "约250g/份",
+        /*商品价格*/
+        "goodsPrice": "1.92",
+        /*市场价格*/
+        "marketPrice": "2.0"
+      },
+      {
+        "goodsId": "2",
+        "goodsName": "商品名称22",
+        "goodsImage": "https://goss.veer.com/creative/vcg/veer/800water/veer-153835898.jpg",
+        "goodsNumber": "约250g/份",
+        "goodsPrice": "1.92",
+        "marketPrice": "2.0"
+      },
+      {
+        "goodsId": "3",
+        "goodsName": "商品名称33",
+        "goodsImage": "https://goss.veer.com/creative/vcg/veer/800water/veer-153835898.jpg",
+        "goodsNumber": "约250g/份",
+        "goodsPrice": "1.92",
+        "marketPrice": "2.0"
+      },
+      {
+        "goodsId": "4",
+        "goodsName": "商品名称44",
+        "goodsImage": "https://goss.veer.com/creative/vcg/veer/800water/veer-153835898.jpg",
+        "goodsNumber": "约250g/份",
+        "goodsPrice": "1.92",
+        "marketPrice": "2.0"
+      },
+      {
+        "goodsId": "5",
+        "goodsName": "商品名称55",
+        "goodsImage": "https://goss.veer.com/creative/vcg/veer/800water/veer-153835898.jpg",
+        "goodsNumber": "约250g/份",
+        "goodsPrice": "1.92",
+        "marketPrice": "2.0"
+      },
+      {
+        "goodsId": "6",
+        "goodsName": "商品名称66",
+        "goodsImage": "https://goss.veer.com/creative/vcg/veer/800water/veer-153835898.jpg",
+        "goodsNumber": "约250g/份",
+        "goodsPrice": "1.92",
+        "marketPrice": "2.0"
+      }
+    ]
+  }
+]

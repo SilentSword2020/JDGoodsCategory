@@ -1,0 +1,255 @@
+{
+  "sortList": [
+    {
+      /*排序id*/
+      "sId": "0",
+      /*排序名称*/
+      "name": "默认排序"
+    },
+    {
+      "sId": "1",
+      "name": "销量"
+    },
+    {
+      "sId": "2",
+      "name": "优惠"
+    },
+    {
+      "sId": "3",
+      "name": "价格升序"
+    },
+    {
+      "sId": "4",
+      "name": "价格降序"
+    }
+  ],
+  "list": [
+    {
+      /*分类id*/
+      "cId": "1",
+      /*分类名称*/
+      "name": "秒杀",
+      /*分类图片*/
+      "imageUrl": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1586782303711&di=9a6bb30a7bf1370984fa204de41f3d95&imgtype=0&src=http%3A%2F%2Fimage.biaobaiju.com%2Fuploads%2F20190705%2F21%2F1562333984-rjtpdeNsAc.jpeg",
+      "list": [
+        {
+          /*小分类id: 大分类id+index*/
+          "cId": "11",
+          /*小分类名称*/
+          "name": "秒杀",
+          /*小分类图片*/
+          "imageUrl": ""
+        }
+      ]
+    },
+    {
+      "cId": "2",
+      "name": "直降",
+      "imageUrl": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1586782303711&di=9a6bb30a7bf1370984fa204de41f3d95&imgtype=0&src=http%3A%2F%2Fimage.biaobaiju.com%2Fuploads%2F20190705%2F21%2F1562333984-rjtpdeNsAc.jpeg",
+      "list": [
+        {
+          "cId": "21",
+          "name": "直降",
+          "imageUrl": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1586782303711&di=9a6bb30a7bf1370984fa204de41f3d95&imgtype=0&src=http%3A%2F%2Fimage.biaobaiju.com%2Fuploads%2F20190705%2F21%2F1562333984-rjtpdeNsAc.jpeg"
+        }
+      ]
+    },
+    {
+      "cId": "3",
+      "name": "爆品推荐",
+      "imageUrl": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1586782303711&di=9a6bb30a7bf1370984fa204de41f3d95&imgtype=0&src=http%3A%2F%2Fimage.biaobaiju.com%2Fuploads%2F20190705%2F21%2F1562333984-rjtpdeNsAc.jpeg",
+      "list": [
+        {
+          "cId": "31",
+          "name": "爆品推荐",
+          "imageUrl": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1586782303711&di=9a6bb30a7bf1370984fa204de41f3d95&imgtype=0&src=http%3A%2F%2Fimage.biaobaiju.com%2Fuploads%2F20190705%2F21%2F1562333984-rjtpdeNsAc.jpeg"
+        }
+      ]
+    },
+    {
+      "cId": "4",
+      "name": "新鲜蔬菜",
+      "imageUrl": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1586782303711&di=9a6bb30a7bf1370984fa204de41f3d95&imgtype=0&src=http%3A%2F%2Fimage.biaobaiju.com%2Fuploads%2F20190705%2F21%2F1562333984-rjtpdeNsAc.jpeg",
+      "list": [
+        {
+          "cId": "41",
+          "name": "叶菜类"
+        },
+        {
+          "cId": "42",
+          "name": "根茎类"
+        },
+        {
+          "cId": "43",
+          "name": "花果类"
+        },
+        {
+          "cId": "44",
+          "name": "菌菇类"
+        },
+        {
+          "cId": "45",
+          "name": "调味类"
+        },
+        {
+          "cId": "46",
+          "name": "豆夹类"
+        },
+        {
+          "cId": "47",
+          "name": "辅材类"
+        }
+      ]
+    },
+    {
+      "cId": "5",
+      "name": "优质蛋品",
+      "imageUrl": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1586782303711&di=9a6bb30a7bf1370984fa204de41f3d95&imgtype=0&src=http%3A%2F%2Fimage.biaobaiju.com%2Fuploads%2F20190705%2F21%2F1562333984-rjtpdeNsAc.jpeg",
+      "list": [
+        {
+          "cId": "51",
+          "name": "鸡蛋"
+        },
+        {
+          "cId": "52",
+          "name": "其他蛋品"
+        },
+        {
+          "cId": "53",
+          "name": "加工蛋品"
+        }
+      ]
+    },
+    {
+      "cId": "6",
+      "name": "鸡鸭鹅鸽",
+      "imageUrl": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1586782303711&di=9a6bb30a7bf1370984fa204de41f3d95&imgtype=0&src=http%3A%2F%2Fimage.biaobaiju.com%2Fuploads%2F20190705%2F21%2F1562333984-rjtpdeNsAc.jpeg",
+      "list": [
+        {
+          "cId": "61",
+          "name": "鸡肉"
+        },
+        {
+          "cId": "62",
+          "name": "鸭肉"
+        },
+        {
+          "cId": "63",
+          "name": "禽内脏"
+        },
+        {
+          "cId": "64",
+          "name": "冻品"
+        }
+      ]
+    },
+    {
+      "cId": "7",
+      "name": "牛羊猪肉",
+      "imageUrl": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1586782303711&di=9a6bb30a7bf1370984fa204de41f3d95&imgtype=0&src=http%3A%2F%2Fimage.biaobaiju.com%2Fuploads%2F20190705%2F21%2F1562333984-rjtpdeNsAc.jpeg",
+      "list": [
+        {
+          "cId": "71",
+          "name": "猪肉"
+        },
+        {
+          "cId": "72",
+          "name": "牛肉"
+        },
+        {
+          "cId": "73",
+          "name": "羊肉"
+        },
+        {
+          "cId": "74",
+          "name": "黑毛土猪"
+        },
+        {
+          "cId": "75",
+          "name": "壹号土猪"
+        }
+      ]
+    },
+    {
+      "cId": "8",
+      "name": "牛羊猪肉8",
+      "imageUrl": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1586782303711&di=9a6bb30a7bf1370984fa204de41f3d95&imgtype=0&src=http%3A%2F%2Fimage.biaobaiju.com%2Fuploads%2F20190705%2F21%2F1562333984-rjtpdeNsAc.jpeg",
+      "list": [
+        {
+          "cId": "81",
+          "name": "猪肉8"
+        },
+        {
+          "cId": "82",
+          "name": "牛肉8"
+        },
+        {
+          "cId": "83",
+          "name": "羊肉8"
+        },
+        {
+          "cId": "84",
+          "name": "黑毛土猪8"
+        },
+        {
+          "cId": "85",
+          "name": "壹号土猪8"
+        }
+      ]
+    },
+    {
+      "cId": "9",
+      "name": "牛羊猪肉9",
+      "imageUrl": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1586782303711&di=9a6bb30a7bf1370984fa204de41f3d95&imgtype=0&src=http%3A%2F%2Fimage.biaobaiju.com%2Fuploads%2F20190705%2F21%2F1562333984-rjtpdeNsAc.jpeg",
+      "list": [
+        {
+          "cId": "91",
+          "name": "猪肉9"
+        },
+        {
+          "cId": "92",
+          "name": "牛肉9"
+        },
+        {
+          "cId": "93",
+          "name": "羊肉9"
+        },
+        {
+          "cId": "94",
+          "name": "黑毛土猪9"
+        },
+        {
+          "cId": "95",
+          "name": "壹号土猪9"
+        }
+      ]
+    },
+    {
+      "cId": "10",
+      "name": "牛羊猪肉10",
+      "imageUrl": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1586782303711&di=9a6bb30a7bf1370984fa204de41f3d95&imgtype=0&src=http%3A%2F%2Fimage.biaobaiju.com%2Fuploads%2F20190705%2F21%2F1562333984-rjtpdeNsAc.jpeg",
+      "list": [
+        {
+          "cId": "101",
+          "name": "猪肉10"
+        },
+        {
+          "cId": "102",
+          "name": "牛肉10"
+        },
+        {
+          "cId": "103",
+          "name": "羊肉10"
+        },
+        {
+          "cId": "104",
+          "name": "黑毛土猪10"
+        },
+        {
+          "cId": "105",
+          "name": "壹号土猪10"
+        }
+      ]
+    }
+  ]
+}
